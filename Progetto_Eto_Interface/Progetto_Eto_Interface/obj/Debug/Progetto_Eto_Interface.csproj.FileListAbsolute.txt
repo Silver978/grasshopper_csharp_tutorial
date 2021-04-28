@@ -1,0 +1,19 @@
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.csproj.CoreCompileInputs.cache
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\bin\Progetto_Eto_Interface.dll
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\bin\Progetto_Eto_Interface.pdb
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.csprojAssemblyReference.cache
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.dll
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.pdb
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.Inteface.resources
+Y:\Stefano\work\StaticFolder\VisualStudio\EtoForm\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.csproj.GenerateResource.cache
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.csprojAssemblyReference.cache
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.Inteface.resources
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.csproj.GenerateResource.cache
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.csproj.CoreCompileInputs.cache
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.dll
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.pdb
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\bin\Progetto_Eto_Interface.dll
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\bin\Progetto_Eto_Interface.pdb
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\bin\Newtonsoft.Json.dll
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\bin\Newtonsoft.Json.xml
+C:\Users\darkg\Downloads\Telegram Desktop\Progetto_Eto_Interface\Progetto_Eto_Interface\Progetto_Eto_Interface\obj\Debug\Progetto_Eto_Interface.csproj.CopyComplete
