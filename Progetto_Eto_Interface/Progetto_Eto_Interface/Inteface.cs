@@ -30,53 +30,44 @@ namespace Progetto_Eto_Interface
             this.Close();
         }
 
-        private void txt_file_DoubleClick(object sender, EventArgs e)
-        {
-            
-        }
-
         private void button1_Click_1(object sender, EventArgs e)
         {
-
-            // Normal text
-            string textToShow = thisReader.Value;
-            txt_file.Text = textToShow;
-
-            // JSON to treeview
-            /*Type type = rot.GetType();
-            foreach (PropertyInfo pi in type.GetProperties())
-            {
-                string a = pi.ToString();
-            }*/
+            // Caricamento JSON e visualizzazione TreeView
             JsonTreeView.JsonTreeViewLoader.LoadJsonToTreeView(treeView1, thisReader.Value);
-
-            /*
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\darkg\Desktop\testJson.json");
-
-            // Display the file contents by using a foreach loop.
-            foreach (string line in lines)
-            {
-                // Use a tab to indent each line of the file.
-                Console.WriteLine("\t" + line);
-            }*/
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void TreeViewAfterSelect(object sender, TreeViewEventArgs e)
         {
             string nodeText = treeView1.SelectedNode.Text;
 
-            // Update the panel here accordingly
-            textBox1.Text = nodeText;
+            textBox1.Clear();
+
+            // Show entire subtree
+            foreach (TreeNode thisNode in treeView1.SelectedNode.Nodes)
+            {
+                // Recursion from selected node to children
+                ExploreAndPrintSubTree(thisNode, "");
+            }
+            
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void ExploreAndPrintSubTree(TreeNode nodeToExplore, string level)
         {
+            if(nodeToExplore.GetNodeCount(true) == 0)
+            {
+                textBox1.AppendText(level + nodeToExplore.Text + Environment.NewLine);
+            }
+            else
+            {
+                textBox1.AppendText(level + nodeToExplore.Text + Environment.NewLine);
 
+                foreach (TreeNode thisThisNode in nodeToExplore.Nodes)
+                {
+                    ExploreAndPrintSubTree(thisThisNode, level+"-");
+                }
+
+            }
+            
         }
     }
 
